@@ -15,6 +15,7 @@ main {
   flex-flow: wrap;
   justify-content: space-around;
   align-items: stretch;
+  align-content: center;
   background-color: #92C9D5;
   width: 100%;
   height: 100%;
